@@ -1,2 +1,4 @@
 *.gz
 *.jpg
+*/tf_tutorial/for_transfer_learning/*
+*/tf_tutorial/Char-RNN*
